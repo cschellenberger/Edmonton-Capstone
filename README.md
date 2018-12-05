@@ -3,9 +3,11 @@
   <img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/crime+vs+population.png" alt="crime vs pop" height="200"> <img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/map-analysis.png" alt="map analysis" height="200"> <img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/survey-responses.png" alt="survey analysis" height="200">
 </div>
 
+****
 # Documentation
 
-### [Project Proposal: Capstone 1](https://docs.google.com/document/d/1qs64wmLrV34E9YbAemrvvMxOk4ypyoNi5NLC1S6DeZQ/edit?usp=sharing)
+## [Edmonton Property Assessment Report](https://github.com/cschellenberger/Edmonton-Capstone/blob/master/Edmonton%20Property%20Assessment%20and%20Crime%20Report.pdf)
+****
 
 # iPython Notebooks
 Notebook | Description
