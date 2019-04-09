@@ -1,6 +1,6 @@
 # Edmonton Open Data Analysis for Property Assessment Values
 <div>
-  <img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/crime+vs+population.png" alt="crime vs pop" height="200"> <img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/map-analysis.png" alt="map analysis" height="200"> <img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/survey-responses.png" alt="survey analysis" height="200">
+<img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/crime+vs+population.png" alt="crime vs pop" height="200"> <img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/map-analysis.png" alt="map analysis" height="200"> <img src="https://s3-us-west-2.amazonaws.com/schellenbergers3bucket/survey-responses.png" alt="survey analysis" height="200">
 </div>
 
 ****
